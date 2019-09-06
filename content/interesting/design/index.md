@@ -1,8 +1,6 @@
 ---
 title: "吉田の興味関心：デザイン"
 linkTitle: "Design"
-aliases:
-- /introduce/#design
 date: 2019-07-15T19:50:55+09:00
 draft: false
 ---

@@ -1,8 +1,6 @@
 ---
 title: "吉田の興味関心：学び"
 linkTitle: "Manabi"
-aliases:
-- /introduce/#learning
 date: 2019-07-15T19:51:21+09:00
 draft: false
 ---
