@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+  <title>吉田信将のポートフォリオ</title>
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+    integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+  
+  <link rel="stylesheet" href="../../mycss/style.css">
+  <link rel="stylesheet" href="../../mycss/style2.css">
+  <link rel="stylesheet" href="../../mycss/move.css">
+
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/pace.min.js"></script>
+  
+</head>
+
+<body>
+  <div class="wrap">
+  <header>
+    
+    <div class="fixed-menu-nomove">
+      <img src="../../img/tops/menu/menu31.png" usemap="#ImageMap3" alt="" class="img-fluid" />
+      <map name="ImageMap3">
+        <area shape="rect" coords="79,26,358,126" href="../../" alt="" />
+        <area shape="rect" coords="420,50,581,99" href="../../introduce" alt="" />
+        <area shape="rect" coords="639,47,843,98" href="../../works" alt="" />
+      </map>
+    </div>
+    
+    <img src="../../img/transparentheader.png" alt="" class="img-fluid" />
+
+  </header>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="entry-header">
+        <span class="entry-date">Jun 06, 2019</span>
+        <h1 class="entry-title">初心者のためのレトロゲームを作ってみようの会</h1>
+      </div>
+    </div>
+
+    <div class="col-md-12">
+      <div class="entry-content">
+        <p>
+
+<h3 id="サマリー">サマリー</h3>
+
+<ul>
+<li>参加者が「新しいことを学んで変化する」ことを促すワークショップを目指しました。</li>
+
+<li><p>そのために、ワークショップを「手を動かして作業する」→「人に進捗を見せる」→「フィードバックを受ける」といったサイクルを何度も回すように設計しました。</p>
+
+<ul>
+<li>このサイクルを回すことで、新しいことを学んだりアイデアを思いついたりしやすくなり、その結果、自分の考えや知識、物事に対する理解がいい方向に「変化」しやすくなるのではないか、という仮説に基づいています(吉田がいくつかの知見から推測した仮説です)。</li>
+</ul></li>
+
+<li><p>具体的には、レトロ風のゲームが簡単に作れるPythonのモジュール”<a href="https://github.com/kitao/pyxel/blob/master/README.ja.md">Pyxel</a>”で、参加者にゲームを作ってもらいました。
+ただ作るのではなく、「少し作業」→「人に見せる」といったサイクルをワークショップ内で３回ほど回すように設計しました。</p></li>
+</ul>
+
+<h3 id="イベントのまとめスライド">イベントのまとめスライド</h3>
+
+<p><img src="../../event/pyxel/matomeSlide.jpg" class="img-fluid " style=""></p>
+
+<h3 id="開催日程">開催日程</h3>
+
+<ul>
+<li>2019/6/26 18:15 ~ 19:45</li>
+</ul>
+
+<h3 id="開催した背景">開催した背景</h3>
+
+<p>吉田は九州工業大学情報工学部のALSAという団体でバイトをしています。
+ALSAは「学内に能動的に学ぶ人間を増やす」ことを目標に活動している団体です。学生の学びに関する相談を受け一緒に解決するピアチュータリングや、学びに関するイベントの開催を行なっています。
+その学びに関するイベントの一環として、今回のワークショップも計画されました。</p>
+
+<p>題材が<a href="https://github.com/kitao/pyxel/blob/master/README.ja.md">Pyxel</a>なのは、たまたまです。
+バイト先で、Pyxelについての話を聞き、面白そうなのでゲームを作っていたところ、「Pyxelの勉強会やってみたら？」という話を受け、このイベントを吉田が企画・運営することになりました。</p>
+
+<h3 id="イベントの目標">イベントの目標</h3>
+
+<p>参加者が、このイベントで新しいことを学んで「変化」することを促すイベントを目指しました。</p>
+
+<p>手を動かしてモノを作る中で「何か仮説を立て」「実験し」「フェードバックを得て」最終的にいいものが作れた時は非常に楽しいものです。
+このサイクルを繰り返すと、最初の想定から大きくかけ離れたものが完成することがあります。</p>
+
+<p>が、サイクルがうまく回り、作業の中で知らなかったことを学べたなら、当初の想定よりもいいモノができているはずです。そのような経験を参加者にしてほしいと考えました。</p>
+
+<h3 id="目標達成の手段">目標達成の手段</h3>
+
+<p>「製作物をこまめに人に見せ、フィードバックを受けることで、参加者の変化を促すことができるのではないか」という仮説を立てました。
+そして、イベント中になんども「手を動かす」→ 「人に見せる」→「手を動かす」…というサイクルを回すようにしました。たとえば、</p>
+
+<ul>
+<li>「吉田の作成したPyxelのチュートリアルを少し改造する」→ 「どう改造したか島内で発表する」</li>
+<li>「作りたいゲームを紙に書く」 → 「何を書いたか島内で発表する」</li>
+<li>「実際にコードを書く」→「今日の進捗を島内で共有する」</li>
+</ul>
+
+<p>などしました。</p>
+
+<p>また、「これまでに持っていた知識と違うことをしたくなった時、人間はその挑戦が怖くなる」ことを知っていたので(U理論のVoice of Fearを参考にしています)、イベント中に計3回「ものを作っていれば作りたいものが変化するのはむしろ自然なことだよ」と話しました。</p>
+
+<ul>
+<li>イベント開始直後に「作ってみて初めてわかることってあるはず」と伝えた。</li>
+<li>イベント中盤に「人に見せたからと言ってその通りに作る義務はない、どんどん面白いと感じた方向に進んでほしい」と伝えると同時に、吉田の実体験を話した。
+
+<ul>
+<li>「おもしろいと感じた方向」という表現は、ポランニーの「暗黙知」を参考にした。</li>
+</ul></li>
+<li>イベントのまとめとして、このイベントの趣旨は「ものを作る中でもっといいアイデアを思いつく経験を参加者にしてもらうこと」だったと説明した。</li>
+</ul>
+
+<h3 id="評判">評判</h3>
+
+<p>参加者は16名いました(想定の3倍ほど来たので、少し慌てました)。</p>
+
+<p>アンケートの感想では、
+- 当たり判定がかけた
+- 作りたいものが変化する方がむしろ自然という話は今後の活動の参考になりそう
+など、Pyxelの技術に関する感想もあれば、こちらの意図を適切に汲んでくださった感想もありました。こちらの意図通りの感想の方が、割合少なめでした。
+こちらの意図がかなり抽象的で難しいので、仕方ないのかも知れません。</p>
+
+<p>一度のワークショップで伝わる内容でないのも理解しているので、今後も同じようなイベントを継続して行い、参加者と何度も話をする中で少しづつ伝えていく計画です。</p>
+
+<p>例えば、このイベントの次の週から「もくもく会」を開催しました。
+こちらのイベントは他のALSAスタッフに任せたので詳細は省きますが、内容は「集まって、一時間ほど作業して、その日の進捗を報告し合う」といったものです。</p>
+
+<p>こまめに人と会い一緒に作業する環境を用意することで、参加者間や参加者と主催者との間に信頼関係を重ねることを狙っています。
+そうして得られた深いコミュニティの中では、アイデア同士の思わぬかけ合わせが起きやすくなったり、誰かの話が新しい分野を学ぶきっかけになりやすくなるのではないか、という仮説に基づいています。</p>
+
+<h3 id="反省点">反省点</h3>
+
+<ul>
+<li>事前のシミュレーションが甘かった結果、時間がかなり押してしまった
+
+<ul>
+<li>コード書きを40分ほど行ってもらう予定が、10分になってしまった。</li>
+<li>「まずはチュートリアル用のコードをコピペして動かしてね」が通じない人がこれほど多いとは想像もしていなかった。</li>
+<li>「Pyxelの環境を事前に作ってくださると助かります」とフライヤーに書いて、それが実行できる人なら、大丈夫だろうと思ったのが甘かった
+
+<ul>
+<li>確かにインストール自体は記事に書いてある通りにすればできるが…</li>
+</ul></li>
+<li>環境構築に想像以上に時間がかかった。</li>
+<li>苦戦するだろうとは思っていたが、想像よりはるかに時間がかかった
+
+<ul>
+<li>最後まで環境ができないままだった方も2人いた</li>
+</ul></li>
+<li>そもそも、想定していた人数の３倍近い人数が来てくださったので、仕方ないといえばそうなのかもしれないが…</li>
+<li>次似たイベントを行うことがあれば、環境をVMにして配布することを検討したい</li>
+</ul></li>
+</ul>
+
+<h3 id="エピソード">エピソード</h3>
+
+<p><a href="../../event/haruzemi2019#HaruzemiEpisode" class="">
+  こちら
+</a>
+に、Pyxel勉強会について話し合いをした時のエピソードを書きました。</p>
+
+<h3 id="作った資料">作った資料</h3>
+
+<ul>
+<li><p><a href="../../flier/retoro" class="">
+フライヤー
+</a></p></li>
+
+<li><p><a href="../../event/pyxel/slide.pdf" class="">
+スライド
+</a></p></li>
+</ul>
+</p>
+      </div>
+    </div>
+  </div>
+</div>
+</main>
+
+
+<footer>
+  <div class="container-fluid">
+    <div class="container">
+
+        <div class="row">
+            <div class="col-md-6">
+              <h3>吉田信将</h3>
+              <p>九州工業大学 情報工学部 知能情報工学科　2021年卒業予定</p>
+            </div>
+            <div class="col-md-6">
+              <h3>連絡先</h3>
+              <p>Mail : yoshida.toshinobu388@mail.kyutech.jp</p>
+            </div>
+          </div>
+
+          <div class="row">
+              <div class="col-md-12">
+                <h3><a href="../../introduce">自己紹介</a></h3><br>
+                <h3><a href="../../works">作品まとめ</a></h3><br>
+              </div>
+            </div>
+
+      <div class="row">
+        <div class="col-md-12">
+          <h5>ページ一覧</h5>
+          
+<ul>
+  <li><a href="../../">吉田のポートフォリオ</a>
+<ul>
+  <li><a href="../../website/">Website</a>
+    <ul>
+      <li><a href="../../website/myportfolio/">吉田信将のポートフォリオの裏話</a>
+      <li><a href="../../website/tsunaguhugo2/">つなぐカフェ＠飯塚webサイト(Hugoバージョン)</a>
+      <li><a href="../../website/tsunaguhugo/">(一応残してある、説明の文章が古いバージョン)つなぐカフェ＠飯塚webサイト(Hugoバージョン)</a>
+      <li><a href="../../website/tsunaguold/">つなぐカフェ＠飯塚webサイト(旧バージョン)</a>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li><a href="../../program/">Program</a>
+    <ul>
+      <li><a href="../../program/nekotapi/">猫とタピオカ</a>
+      <li><a href="../../program/others/">計算機科学の技術にまつわる、今まで行ってきたこと</a>
+      <li><a href="../../program/pyxelgame/">Pyxelで作った避けゲー</a>
+      <li><a href="../../program/tapioka/">荒ぶるタピオカ</a>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li><a href="../../interesting/">Interesting</a>
+    <ul>
+      <li><a href="../../interesting/manabi/">吉田の興味関心：学び</a>
+      <li><a href="../../interesting/design/">吉田の興味関心：デザイン</a>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li><a href="../../flier/">Flier</a>
+    <ul>
+      <li><a href="../../flier/kyoupuroseptember/">競プロ勉強会の告知</a>
+      <li><a href="../../flier/retoro/">初心者のためのレトロゲームを作ってみようの会の告知</a>
+      <li><a href="../../flier/tsunagustaff/">つなぐカフェ＠飯塚のスタッフ募集</a>
+      <li><a href="../../flier/rantyao/">藍橋杯および競プロ勉強会の告知</a>
+      <li><a href="../../flier/nyuumon/">新入生のためのプログラミング入門イベント告知</a>
+      <li><a href="../../flier/haruzemi/">春の輪読会の告知</a>
+      <li><a href="../../flier/tsunaguabout/">「つなぐカフェ＠飯塚」とはどういう場所か知らせる</a>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li><a href="../../event/">Event</a>
+    <ul>
+      <li><a href="../../event/pyxel/">初心者のためのレトロゲームを作ってみようの会</a>
+      <li><a href="../../event/rantyao/">藍橋杯(国際プログラミングコンテスト)のスタッフ　および　藍橋杯に向けた勉強会主催</a>
+      <li><a href="../../event/haruzemi2019reflection/">春ゼミ2019 アイデアを思いつくには リフレクション</a>
+      <li><a href="../../event/sinnyuusei/">新入生のためのプログラミング入門イベントの主催</a>
+      <li><a href="../../event/haruzemi2019/">春ゼミ2019 アイデアを思いつくには</a>
+    </ul>
+  </li>
+</ul>
+    <ul>
+      <li><a href="../../works/">作品まとめ</a>
+      <li><a href="../../introduce/">自己紹介</a>
+      <li><a href="../../portfolio/">作ったものたち</a>
+    </ul>
+  </li>
+</ul>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</footer>
+</div> 
+
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em" crossorigin="anonymous"></script>
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery-rwdImageMaps/1.6/jquery.rwdImageMaps.min.js"></script>
+<script src="../../myjs/move.js"></script>
+</body>
+
+</html>
+

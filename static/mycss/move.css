@@ -1,0 +1,41 @@
+.tops{
+    position: relative;
+    height: 100%;
+}
+
+.tops1{
+    position: absolute;
+}
+
+.tops2{
+    position: absolute;
+}
+
+.tops3{
+    position: absolute;
+}
+
+.tops4{
+    position: absolute;
+}
+
+.fixed-menu{
+    opacity: 0;
+    position: fixed;
+    z-index: 3;
+}
+.do{
+    opacity: 1;
+}
+.menuRerative{
+    position: relative;
+}
+.inmenu{
+    z-index: 6;
+    display: block;
+}
+
+.fixed-menu-nomove{
+    position: fixed;
+    z-index: 3;
+}
