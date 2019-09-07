@@ -15,7 +15,11 @@ description: "「Pyxel」という、Pythonで簡単にレトロゲームを作�
 ただ作るのではなく、「少し作業」→「人に見せる」といったサイクルをワークショップ内で３回ほど回すように設計しました。
 
 ### イベントのまとめスライド
-{{% static_img src="matomeSlide.jpg" %}}
+{{% static_img src="matomeSlide.jpg" style="width:70%" %}}
+
+### 作った資料
+- {{% static_a href="/flier/retoro" %}}フライヤー{{% /static_a %}}
+- {{% static_a href="slide.pdf" %}}スライド{{% /static_a %}}
 
 ### 開催日程
 - 2019/6/26 18:15 ~ 19:45
@@ -87,6 +91,4 @@ ALSAは「学内に能動的に学ぶ人間を増やす」ことを目標に活�
 ### エピソード
 {{% static_a href="/event/haruzemi2019#HaruzemiEpisode" %}}こちら{{% /static_a %}}に、Pyxel勉強会について話し合いをした時のエピソードを書きました。
 
-### 作った資料
-- {{% static_a href="/flier/retoro" %}}フライヤー{{% /static_a %}}
-- {{% static_a href="slide.pdf" %}}スライド{{% /static_a %}}
+
