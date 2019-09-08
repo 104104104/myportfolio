@@ -1,5 +1,5 @@
 ---
-title: "自己紹介"
+title: "Information"
 date: 2019-09-01T15:27:12+09:00
 draft: false
 ---
@@ -12,7 +12,7 @@ draft: false
         <p>九州工業大学 情報工学部 知能情報工学科</p>
         <p>2021年卒業予定</p>
         <p>Mail : yoshida.toshinobu388@mail.kyutech.jp</p>
-        <p>GitHub : https://github.com/104104104</p>
+        <p>GitHub : <a href="https://github.com/104104104">https://github.com/104104104</a></p>
       </div>
     </div>
     <div class="col-md-6">

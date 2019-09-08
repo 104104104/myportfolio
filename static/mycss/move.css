@@ -79,22 +79,13 @@
 
 .fixed-menu {
     z-index: 100;
+    opacity: 0;
+}
+
+.domenu {
+    opacity: 1;
 }
 
 .do {
     opacity: 1;
-}
-
-.menuRerative {
-    position: relative;
-}
-
-.inmenu {
-    z-index: 6;
-    display: block;
-}
-
-.fixed-menu-nomove {
-    position: fixed;
-    z-index: 3;
 }
