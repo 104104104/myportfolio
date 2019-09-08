@@ -2,171 +2,182 @@
 <html lang="ja">
 
 <head>
-  <meta charset="UTF-8">
-  <title>吉田信将のポートフォリオ</title>
+    <meta charset="UTF-8">
+    <title>吉田信将のポートフォリオ</title>
 
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <!-- Bootstrap読み込み -->
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
-    integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-  <!-- 独自のcss の読み込み -->
-  <link rel="stylesheet" href="/mycss/style.css">
-  <link rel="stylesheet" href="/mycss/style2.css">
-  <link rel="stylesheet" href="/mycss/move.css">
+    <!-- Bootstrap読み込み -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <!-- 独自のcss の読み込み -->
+    <link rel="stylesheet" href="/mycss/style.css">
+    <link rel="stylesheet" href="/mycss/style2.css">
+    <link rel="stylesheet" href="/mycss/move.css">
+    <link rel="stylesheet" href="/mycss/responsive.css">
 
-  <!--NowLoading表示プラグイン-->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/pace.min.js"></script>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/themes/green/pace-theme-loading-bar.css" />
+    <!--NowLoading表示プラグイン-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/pace.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/themes/green/pace-theme-loading-bar.css" />
 </head>
 
 <body>
-  <div class="wrap">
-  <!--ここまで、他のページでは　partial/headerで呼び出している部分-->
-  <!--topページのみヘッダーの仕様が異なるので、別に書いた-->
+    <div class="wrap">
+        <!--ここまで、他のページでは　partial/headerで呼び出している部分-->
+        <!--topページのみヘッダーの仕様が異なるので、別に書いた-->
 
 
 
-  <div class="tops">
-    <img src="/img/tops/triangle4.png" class="img-fluid tops1">
+        <div class="tops" id="topsid">
+            <img src="/img/underbar.png" class="topbar" id="topbarid">
+            <h2 class="topchar1" id="topchar1id">吉田信将の<br class="br0to400">ポートフォリオ</h2>
+            <img src="/img/tops/charactor2.png" class="topchar2" id="topchar2id">
+            <img src="/img/tops/charactor3.png" class="topchar3" id="topchar3id">
+            <img src="/img/tops/toumei.png" class="topback">
 
-    <div class="menuDisplayClass">
-      <img src="/img/tops/menu/triangle41.png" usemap="#ImageMap" alt="" class="img-fluid tops3" />
-      <map name="ImageMap">
-        <area shape="rect" coords="77,1286,358,1374" href="/" alt="" />
-        <area shape="rect" coords="422,1307,577,1352" href="/introduce" alt="" />
-        <area shape="rect" coords="633,1307,842,1346" href="/works/index.html" alt="" />
-      </map>
-    </div>
-
-    <div class="fixed-menu">
-      <img src="/img/tops/menu/menu31.png" usemap="#ImageMap2" alt="" class="img-fluid" />
-      <map name="ImageMap2">
-        <area shape="rect" coords="79,26,358,126" href="/" alt="" />
-        <area shape="rect" coords="420,50,581,99" href="/introduce" alt="" />
-        <area shape="rect" coords="639,47,843,98" href="/works/index.html" alt="" />
-      </map>
-    </div>
-    <img src="/img/tops/menu/toumei.png" class="img-fluid notAbsolute">
-  </div>
-
-  <br>
-
-  <div class="container mainText">
-    <div class="row">
-      <div class="col-md-12">
-        <h1>大切にしている考え方 : まず問題を整理する</h1>
-        <img src="/img/underbar.png" class="underbar">
-        <p>
-          吉田は、問題を解決するためには、手段を考えるより前に、まず今ある問題を明確にすることが大切だと考えています。<br>
-          そのうえで、問題を解決する手段として、デザインを考えたり技術を使ったりするよう心がけています。<br>
-        </p>
-        <p>
-          例えば、Webサイトを作る時でしたら、いきなり「情報をかっこよく見せるデザイン」のような曖昧なものを考えるのではなく、まず「誰に情報を伝えるのか」「その人にとってどう嬉しい情報なのか」をよく考え、それを元に解決する問題を改めて整理し、情報の見せ方を考えることが大切だと考えています。
-        </p>
-        <p>
-          Webサイトのデザインだけに限らず、技術を使う時でも、例えばデータベースを使いたいのでRailsで実装するという風に、解決したい問題に応じて技術を選ぶことが大切だと考えています。
-        </p>
-
-        <h3>作業しながら問題を整理する</h3>
-        <p>もちろん、<strong>問題を理解するために手を動かすことは必要</strong>なので、試作をして問題を整理してから作業を進めるようにしています。
-        <br>もう少し具体的には、まずは問題を解決できそうな試作をして、自分以外の人に見せ、得られたフィードバックを元に問題を整理し、問題を解決できそうな試作をする…というサイクルを繰り返します。</p>
-        <p>また、「サイクルのどこかで成果物が完成するのでそこで終わっていい」という訳ではなく、サイクルを回すごとにより良い成果物になるよう改善を繰り返す必要があるとも感じています。</p>
-        <p>例えば、このポートフォリオサイトは、試作を繰り返すうちにだんだんと問題が整理され、今のデザインになっています。</p>
-        <img src="/img/portfolios.png" class="img-fluid">
-        <p><a href="/website/myportfolio">吉田のポートフォリオの制作話について、詳しくはこちら ></a></p>
-      </div>
-    </div>
-
-
-    <div class="row">
-      <div class="col-md-12">
-        <h1>自分の強み : 幅広い分野の知識がある</h1>
-        <img src="/img/underbar.png" class="underbar">
-        <p>
-          上の考えを大前提とした上で、自分の強みは、<strong>Webのデザインからバックエンドの実装まで幅広い分野の知識があること</strong>だと考えています。
-        </p>
-      </div>
-    </div>
-
-    <div class="topWorks">
-      <div class="row">
-        <div class="col-md-12">
-          <h3>チームでの作業の多くに関わることができます</h3>
+            <img src="/img/tops/triangle5.png" class="triangle5">
         </div>
-      </div>
-      <div class="row">
-        <div class="col-md-3">
-          <img src="/img/topimg1.jpg" class="img-fluid">
-        </div>
-        <div class="col-md-9">
-          <p>これまで、「デザインだけ」「技術だけ」を扱うのでなく、幅広い分野に挑戦し積極的に学んできました。</p>
-          <p>
-            例えば、アルバイト先で業務の一環として、公式Webサイトの作成を行いました。吉田は、Webサイトのデザインを紙に書いて設計するところから、HTML+css+jsと静的サイトジェネレータHUGOでの実装までを任されました。<br>
-            実装した後、そのサイトをバイト先の自前のサーバーで公開することになったのですが、人手が空いていなかったので、こちらも吉田が自分で作ることになりました。勉強しながら、WebサーバーやDNS、サブドメインを扱うためのリバースプロキシを作っています。
-          </p>
-          <p>
-            ほぼ全てを吉田が一人で実装しました。が、作業の全体を通して、まめにアルバイト先の人と話をし、制作物の検証・修正を繰り返しました。
-          </p>
-          <p><a href="/website/tsunaguhugo2/">「つなぐカフェ＠飯塚」のサイトについて、詳しくはこちら ></a></p>
-        </div>
-      </div>
-    </div>
 
-    <div class="topWorks">
-      <div class="row">
-        <div class="col-md-12">
-          <h3>複数の分野の知識を生かして、問題の解決策を考えることができます</h3>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-3">
-          <img src="/img/topimg2.jpg" class="img-fluid">
-        </div>
-        <div class="col-md-9">
-          <p>
-            複数の分野の知識を生かして、それぞれの分野をうまく組み合わせた問題の解決策を考えることもできます。</p>
-          <p>
-            例えば、アルバイトの一環で、学内で「レトロゲームを作ってみようの会」というイベントを行ったことがあります。技術に触れることを通して、大学での学びについて考えてもらうイベントでした。
-          </p>
-          <p>
-            人に伝わるように情報の見せ方を考えることを「デザイン」だと定義すると、ゲーム作りなどのプログラミングの技術に興味のある人の多い情報工学部では、参加してもらい自分のこととして考えてもらうために、イベントにこのような技術を用いることは非常に有効なデザインだったと思います。
-          </p>
-          <p><a href="/event/pyxel/">「レトロゲームを作ってみようの会」について、詳しくはこちら ></a></p>
-        </div>
-      </div>
-    </div>
+        <!--menubar-->
+        <nav class="navbar navbar-dark navbar-expand-lg portfoliomenu" id="menuid">
+            <a href="/" class="navbar-brand">吉田信将の<br>ポートフォリオ</a>
 
-    <div class="topWorks">
-      <div class="row">
-        <div class="col-md-12">
-          <h3>必要になれば、詳しくない分野も積極的に学び、実践します</h3>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-3">
-          <img src="/img/topimg3.jpg" class="img-fluid">
-        </div>
-        <div class="col-md-9">
-          <p>
-            今詳しくない分野であっても、それが問題を解決するために必要であれば、積極的に学び、モノを作るようにしています。
-          </p>
-          <p>
-            例えば、個人で、ゲーム「猫とタピオカ」を作ったことがあります。<br>
-            制限時間内に、猫とタピオカをたくさん集めるゲームです。最大で1000個ほど集まります。
-          </p>
-          <p>
-            これを作る際、人とスコアを比較して自分の順位がわかると、何度も遊びたくなるのではと考え、スコアを保存するサーバを作ることにしました。<br>
-            そこで、周囲に詳しい人が多かったRuby on Railsを勉強し、スコアを保存するためのサーバーを制作しました。
-          </p>
-          <p><a href="/program/nekotapi">「猫とタピオカ」について、詳しくはこちら ></a></p>
-        </div>
-      </div>
-    </div>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navmenu1" aria-controls="navmenu1" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+            <div class="collapse navbar-collapse" id="navmenu1">
+                <div class="navbar-nav">
+                    <a href="/introduce" class="navbar-brand">Information</a>
+                    <a href="/works" class="navbar-brand">Works</a>
+                </div>
+            </div>
+        </nav>
+        <!--固定用menubar-->
+        <nav class="navbar navbar-dark navbar-expand-lg portfoliomenu fixed-top fixed-menu" id="menuid2">
+            <a href="/" class="navbar-brand">吉田信将の<br>ポートフォリオ<br>固定</a>
 
-  </div>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navmenu1" aria-controls="navmenu1" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+            <div class="collapse navbar-collapse" id="navmenu1">
+                <div class="navbar-nav">
+                    <a href="/introduce" class="navbar-brand">Information</a>
+                    <a href="/works" class="navbar-brand">Works</a>
+                </div>
+            </div>
+        </nav>
 
-  </div>
+        <div class="container mainText">
+            <div class="row">
+                <div class="col-md-12">
+                    <h3 id="h3tag">大切にしている考え方 : </h3>
+                    <h1>まず問題を整理する</h1>
+                    <img src="/img/underbar.png" class="underbar">
+                    <p>
+                        吉田は、問題を解決するためには、手段を考えるより前に、まず今ある問題を明確にすることが大切だと考えています。<br> そのうえで、問題を解決する手段として、デザインを考えたり技術を使ったりするよう心がけています。
+                        <br>
+                    </p>
+                    <p>
+                        例えば、Webサイトを作る時でしたら、いきなり「情報をかっこよく見せるデザイン」のような曖昧なものを考えるのではなく、まず「誰に情報を伝えるのか」「その人にとってどう嬉しい情報なのか」をよく考え、それを元に解決する問題を改めて整理し、情報の見せ方を考えることが大切だと考えています。
+                    </p>
+                    <p>
+                        Webサイトのデザインだけに限らず、技術を使う時でも、例えばデータベースを使いたいのでRailsで実装するという風に、解決したい問題に応じて技術を選ぶことが大切だと考えています。
+                    </p>
 
-  {{ partial "footer.html" . }}
+                    <h3>作業しながら問題を整理する</h3>
+                    <p>もちろん、<strong>問題を理解するために手を動かすことは必要</strong>なので、試作をして問題を整理してから作業を進めるようにしています。
+                        <br>もう少し具体的には、まずは問題を解決できそうな試作をして、自分以外の人に見せ、得られたフィードバックを元に問題を整理し、問題を解決できそうな試作をする…というサイクルを繰り返します。</p>
+                    <p>また、「サイクルのどこかで成果物が完成するのでそこで終わっていい」という訳ではなく、サイクルを回すごとにより良い成果物になるよう改善を繰り返す必要があるとも感じています。</p>
+                    <p>例えば、このポートフォリオサイトは、試作を繰り返すうちにだんだんと問題が整理され、今のデザインになっています。</p>
+                    <img src="/img/portfolios.png" class="img-fluid">
+                    <p><a href="/website/myportfolio">吉田のポートフォリオの制作話について、詳しくはこちら ></a></p>
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="col-md-12">
+                    <h3 id="h3tag">自分の強み : </h3>
+                    <h1> 幅広い分野の知識がある</h1>
+                    <img src="/img/underbar.png" class="underbar">
+                    <p>
+                        上の考えを大前提とした上で、自分の強みは、<strong>Webのデザインからバックエンドの実装まで幅広い分野の知識があること</strong>だと考えています。
+                    </p>
+                </div>
+            </div>
+
+            <div class="topWorks">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h3>チームでの作業の多くに関わることができます</h3>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-3">
+                        <img src="/img/topimg1.jpg" class="img-fluid">
+                    </div>
+                    <div class="col-md-9">
+                        <p>これまで、「デザインだけ」「技術だけ」を扱うのでなく、幅広い分野に挑戦し積極的に学んできました。</p>
+                        <p>
+                            例えば、アルバイト先で業務の一環として、公式Webサイトの作成を行いました。吉田は、Webサイトのデザインを紙に書いて設計するところから、HTML+css+jsと静的サイトジェネレータHUGOでの実装までを任されました。<br> 実装した後、そのサイトをバイト先の自前のサーバーで公開することになったのですが、人手が空いていなかったので、こちらも吉田が自分で作ることになりました。勉強しながら、WebサーバーやDNS、サブドメインを扱うためのリバースプロキシを作っています。
+                        </p>
+                        <p>
+                            ほぼ全てを吉田が一人で実装しました。が、作業の全体を通して、まめにアルバイト先の人と話をし、制作物の検証・修正を繰り返しました。
+                        </p>
+                        <p><a href="/website/tsunaguhugo2/">「つなぐカフェ＠飯塚」のサイトについて、詳しくはこちら ></a></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="topWorks">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h3>複数の分野の知識を生かして、問題の解決策を考えることができます</h3>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-3">
+                        <img src="/img/topimg2.jpg" class="img-fluid">
+                    </div>
+                    <div class="col-md-9">
+                        <p>
+                            複数の分野の知識を生かして、それぞれの分野をうまく組み合わせた問題の解決策を考えることもできます。</p>
+                        <p>
+                            例えば、アルバイトの一環で、学内で「レトロゲームを作ってみようの会」というイベントを行ったことがあります。技術に触れることを通して、大学での学びについて考えてもらうイベントでした。
+                        </p>
+                        <p>
+                            人に伝わるように情報の見せ方を考えることを「デザイン」だと定義すると、ゲーム作りなどのプログラミングの技術に興味のある人の多い情報工学部では、参加してもらい自分のこととして考えてもらうために、イベントにこのような技術を用いることは非常に有効なデザインだったと思います。
+                        </p>
+                        <p><a href="/event/pyxel/">「レトロゲームを作ってみようの会」について、詳しくはこちら ></a></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="topWorks">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h3>必要になれば、詳しくない分野も積極的に学び、実践します</h3>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-3">
+                        <img src="/img/topimg3.jpg" class="img-fluid">
+                    </div>
+                    <div class="col-md-9">
+                        <p>
+                            今詳しくない分野であっても、それが問題を解決するために必要であれば、積極的に学び、モノを作るようにしています。
+                        </p>
+                        <p>
+                            例えば、個人で、ゲーム「猫とタピオカ」を作ったことがあります。<br> 制限時間内に、猫とタピオカをたくさん集めるゲームです。最大で1000個ほど集まります。
+                        </p>
+                        <p>
+                            これを作る際、人とスコアを比較して自分の順位がわかると、何度も遊びたくなるのではと考え、スコアを保存するサーバを作ることにしました。<br> そこで、周囲に詳しい人が多かったRuby on Railsを勉強し、スコアを保存するためのサーバーを制作しました。
+                        </p>
+                        <p><a href="/program/nekotapi">「猫とタピオカ」について、詳しくはこちら ></a></p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        {{ partial "footer.html" . }}

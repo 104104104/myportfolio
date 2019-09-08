@@ -1,0 +1,35 @@
+/*レスポンシブな改行が欲しい時に使うクラス*/
+
+.notbr760to1000 {
+    display: none;
+}
+
+@media screen and (max-width: 760px) {
+    .notbr760to1000 {
+        display: inline;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    .notbr760to1000 {
+        display: inline;
+    }
+}
+
+@media screen and (max-width: 760px) {
+    .br760to1000 {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    .br760to1000 {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 400px) {
+    .br0to400 {
+        display: none;
+    }
+}
