@@ -1,44 +1,51 @@
-.wrap{
-  opacity: 0;
+.wrap {
+    opacity: 0;
 }
 
-.mainText h1{
-  text-align: center;
-  margin-top: 10%;
-}
-.mainText h3{
-  text-align: center;
-  margin-top: 5%;
-  margin-bottom: 5%;
-}
-.mainText p{
-  font-size: 18px;
-}
-.notBigH3{
-  font-size: 18px;
+.mainText h1 {
+    text-align: center;
+    margin-top: 0%;
 }
 
-.underbar{
-  width:80%;
-  display: block;
-  margin:auto;
-  padding: 0px 0px 0px 0px;
-  margin-bottom: 5%;
+.mainText h3 {
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
 }
 
-.topWorks{
-  margin-bottom: 5%;
+.mainText p {
+    font-size: 18px;
 }
 
-.others{
-  margin-top: 5%;
+#h3tag {
+    margin-bottom: 0%;
 }
 
-.entry-content h3{
-  margin-top: 5%;
+.notBigH3 {
+    font-size: 18px;
 }
 
-.worksText h4{
-  text-align: center;
-  margin-top: 5%;
+.underbar {
+    width: 80%;
+    display: block;
+    margin: auto;
+    padding: 0px 0px 0px 0px;
+    margin-bottom: 5%;
+}
+
+.topWorks {
+    margin-bottom: 5%;
+}
+
+.others {
+    margin-top: 5%;
+}
+
+.entry-content h3 {
+    margin-top: 5%;
+}
+
+.worksText h4 {
+    text-align: center;
+    margin-top: 5%;
 }

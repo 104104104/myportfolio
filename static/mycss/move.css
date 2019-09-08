@@ -23,20 +23,22 @@
     left: 0;
     right: 0;
     margin: auto;
-    width: 80%;
+    width: 70%;
 }
 
 .topchar2 {
-    width: 80%;
+    width: 60%;
     position: absolute;
     top: 20vh;
     left: 0;
     right: 0;
     margin: auto;
+    z-index: 120;
+    ;
 }
 
 .topchar3 {
-    width: 80%;
+    width: 60%;
     position: absolute;
     top: 50vh;
     left: 0;

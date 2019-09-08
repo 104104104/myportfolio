@@ -1,41 +1,93 @@
-.tops{
+.portfoliomenu {
+    background: #0071bc;
+    color: white;
+    z-index: 1;
+}
+
+.topback {
+    height: 110vh;
+}
+
+.topbar {
+    width: 73%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.topchar1 {
+    position: absolute;
+    text-align: center;
+    top: 7vh;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 70%;
+}
+
+.topchar2 {
+    width: 60%;
+    position: absolute;
+    top: 20vh;
+    left: 0;
+    right: 0;
+    margin: auto;
+    z-index: 120;
+    ;
+}
+
+.topchar3 {
+    width: 60%;
+    position: absolute;
+    top: 50vh;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.triangle5 {
+    width: 100%;
+    height: auto;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    z-index: 70;
+}
+
+.tops {
     position: relative;
     height: 100%;
 }
 
-.tops1{
+.tops1 {
+    position: absolute;
+    height: 100vh;
+    width: auto;
+    z-index: 50;
+}
+
+.tops2 {
     position: absolute;
 }
 
-.tops2{
+.tops3 {
     position: absolute;
 }
 
-.tops3{
+.tops4 {
     position: absolute;
 }
 
-.tops4{
-    position: absolute;
-}
-
-.fixed-menu{
+.fixed-menu {
+    z-index: 100;
     opacity: 0;
-    position: fixed;
-    z-index: 3;
 }
-.do{
+
+.domenu {
     opacity: 1;
 }
-.menuRerative{
-    position: relative;
-}
-.inmenu{
-    z-index: 6;
-    display: block;
-}
 
-.fixed-menu-nomove{
-    position: fixed;
-    z-index: 3;
+.do {
+    opacity: 1;
 }
