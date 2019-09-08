@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Interesting on 吉田のポートフォリオ</title>
-    <link>https://104104104.github.io/interesting/</link>
+    <link>https://yoshidatoshinobu.work/interesting/</link>
     <description>Recent content in Interesting on 吉田のポートフォリオ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 15 Jul 2019 19:51:21 +0900</lastBuildDate>
     
-	<atom:link href="https://104104104.github.io/interesting/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yoshidatoshinobu.work/interesting/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>吉田の興味関心：学び</title>
-      <link>https://104104104.github.io/interesting/manabi/</link>
+      <link>https://yoshidatoshinobu.work/interesting/manabi/</link>
       <pubDate>Mon, 15 Jul 2019 19:51:21 +0900</pubDate>
       
-      <guid>https://104104104.github.io/interesting/manabi/</guid>
+      <guid>https://yoshidatoshinobu.work/interesting/manabi/</guid>
       <description> 人が新しいことを学び、変化することの支援 「自分が成長しているらしい」という感覚は楽しいので、積極的に新しいことに挑戦して、より良いと思われる方向へ変化して成長したいと考えています。また、できるならば周りの人も巻き込んで、巻き込んだ人からの良いフィードバックを得たいとも思っています。
 もし人間が何か新しいことを学んだなら、何か不可逆な形で「変化」が起こるはずです。何かを学んだ後で、学ぶ前の状態に戻ることはできないと、素朴には思われます。
 また、「学ぶ前の自分」から見ると、変化した後の「学んだ後の自分」がどうなっているのか想像することは難しいはずです。想像している自分そのものが大きく変化してしまうことを考えているので、自分がどう変化するのか、変化する前に見当をつけるのは、限りなく難しいはずです。
@@ -37,10 +37,10 @@
     
     <item>
       <title>吉田の興味関心：デザイン</title>
-      <link>https://104104104.github.io/interesting/design/</link>
+      <link>https://yoshidatoshinobu.work/interesting/design/</link>
       <pubDate>Mon, 15 Jul 2019 19:50:55 +0900</pubDate>
       
-      <guid>https://104104104.github.io/interesting/design/</guid>
+      <guid>https://yoshidatoshinobu.work/interesting/design/</guid>
       <description>「誰に」対して「何を」「なぜ」伝えるのか バイト先でイベント告知のためのフライヤーやWebサイトを作っているうちに、人に何かを伝えるための情報の配置を考えるのが楽しくなってきました。
 ここでいうデザインとは、『「誰に」対して「何を」「なぜ」伝えるのかをよく整理して作られたモノ』程度の意味です。このようなことについて考えていると、本質的な問題に取り組んでいる気分になることができて、非常に楽しいです。
 また、伝えたい相手や目的がはっきりすればするほど、自ずからシンプルでかっこいいデザインのモノを作ることができると感じています。うまくいったときの感動はひとしおです。

@@ -11,6 +11,8 @@ description: ""
 - 敵同士は引き合い、合体し、大きくなる
 - <a href="https://github.com/104104104/MyPyxel">ソースコード</a>
 
+<h3>このゲームを発展させたゲーム「猫とタピオカ」を作成しました！　詳しくは{{% static_a href="/program/nekotapi" %}}こちら{{% /static_a %}}</h3>
+
 ### 概要
 - {{% static_a href="/event/pyxel" %}}Pyxel勉強会{{% /static_a %}}を行うに際し、サンプルとして作ったゲーム。結構楽しく作った。
 - 勉強会中で示したスライドを以下に示す。
