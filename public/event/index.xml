@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Event on 吉田のポートフォリオ</title>
-    <link>https://104104104.github.io/event/</link>
+    <link>https://yoshidatoshinobu.work/event/</link>
     <description>Recent content in Event on 吉田のポートフォリオ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 26 Jun 2019 11:21:36 +0900</lastBuildDate>
     
-	<atom:link href="https://104104104.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yoshidatoshinobu.work/event/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>初心者のためのレトロゲームを作ってみようの会</title>
-      <link>https://104104104.github.io/event/pyxel/</link>
+      <link>https://yoshidatoshinobu.work/event/pyxel/</link>
       <pubDate>Wed, 26 Jun 2019 11:21:36 +0900</pubDate>
       
-      <guid>https://104104104.github.io/event/pyxel/</guid>
+      <guid>https://yoshidatoshinobu.work/event/pyxel/</guid>
       <description>サマリー  参加者が「新しいことを学んで変化する」ことを促すワークショップを目指しました。 そのために、ワークショップを「手を動かして作業する」→「人に進捗を見せる」→「フィードバックを受ける」といったサイクルを何度も回すように設計しました。
  このサイクルを回すことで、新しいことを学んだりアイデアを思いついたりしやすくなり、その結果、自分の考えや知識、物事に対する理解がいい方向に「変化」しやすくなるのではないか、という仮説に基づいています(吉田がいくつかの知見から推測した仮説です)。  具体的には、レトロ風のゲームが簡単に作れるPythonのモジュール”Pyxel”で、参加者にゲームを作ってもらいました。 ただ作るのではなく、「少し作業」→「人に見せる」といったサイクルをワークショップ内で３回ほど回すように設計しました。
   イベントのまとめスライド 作った資料  フライヤー 
@@ -35,10 +35,10 @@
     
     <item>
       <title>藍橋杯(国際プログラミングコンテスト)のスタッフ　および　藍橋杯に向けた勉強会主催</title>
-      <link>https://104104104.github.io/event/rantyao/</link>
+      <link>https://yoshidatoshinobu.work/event/rantyao/</link>
       <pubDate>Sat, 25 May 2019 15:51:17 +0900</pubDate>
       
-      <guid>https://104104104.github.io/event/rantyao/</guid>
+      <guid>https://yoshidatoshinobu.work/event/rantyao/</guid>
       <description>サマリー  競プロ大会のための勉強会を主催しました。  「藍橋杯」というプログラミングコンテストのための勉強会  伝えたこと  自分でプログラミングの勉強をしたいときに役立ちそうな知識や、もっと一般に何かを学ぶときに役立つ知識を伝えるようにしました。   開催日程  2019/4/17 藍橋過去問やってみようの会  吉田がスライドを作っていないので、詳細は書かない(書けない)  2019/4/24 競プロ勉強会　その１ 2019/5/8 競プロ勉強会　その２ 2019/5/15 競プロ勉強会　その３ 2019/5/22 競プロ勉強会　その４ 2019/5/15 藍橋杯本番 2019/6/12 藍橋反省会  吉田がスライドを作っていないので、詳細は書かない(書けない)   開催した背景 吉田は九州情報工学部のALSAという団体でバイトをしています。学内に能動的に学ぶことのできる人間を増やすことをミッションに活動している団体です。
 で、九州工業大学で「藍橋杯」という中国初のプログラミングコンテストを開催することになったのですが、たまたまALSAと縁があって、藍橋杯のスタッフをすることになりました。 (藍橋杯の公式日本語版サイト  )
 そこで、吉田は一時期AtCoderに参加していたこともあり、せっかくの機会なので、ただプログラミングコンテストを開催するのではなく、藍橋杯をALSAのミッションにつなげようということになり、プログラミングの勉強会を開催する仕事をすることになりました。
@@ -50,20 +50,20 @@
     
     <item>
       <title>春ゼミ2019 アイデアを思いつくには リフレクション</title>
-      <link>https://104104104.github.io/event/haruzemi2019reflection/</link>
+      <link>https://yoshidatoshinobu.work/event/haruzemi2019reflection/</link>
       <pubDate>Mon, 29 Apr 2019 11:51:41 +0900</pubDate>
       
-      <guid>https://104104104.github.io/event/haruzemi2019reflection/</guid>
+      <guid>https://yoshidatoshinobu.work/event/haruzemi2019reflection/</guid>
       <description>このゼミのまとめスライド ゼミのPDF こちら 
 なぜこのスライドを作ったのか   このゼミ  のリフレクションとして作成した。  「プレセンシングがよくわからない」という質問に答えた 暗黙知について再整理した   暗黙知について  このゼミでは「ポランニーさんの主張する暗黙知」を扱った  「正しい進化の方向だ」感 元々の題材の本の著者である西野さん曰く、「違和感」の対義語 人間にもともと備わっている感覚 このような感覚があるよ、ということを知っているのが大切(?) 実は吉田もこの辺についてはうまく言語化できていない…   暗黙知の具体例  絵の練習をしていて、練習の仕方はどんどん変わるが、絵はうまくなっている気がする。暗黙知に従って練習したから？ ゲームを作っていて、当初の予定と大きく違うものになったが、これはこれで面白いゲームができた。暗黙知に従って行動したから？  作ったゲームについての図 作ったゲームは これ</description>
     </item>
     
     <item>
       <title>新入生のためのプログラミング入門イベントの主催</title>
-      <link>https://104104104.github.io/event/sinnyuusei/</link>
+      <link>https://yoshidatoshinobu.work/event/sinnyuusei/</link>
       <pubDate>Tue, 16 Apr 2019 14:53:51 +0900</pubDate>
       
-      <guid>https://104104104.github.io/event/sinnyuusei/</guid>
+      <guid>https://yoshidatoshinobu.work/event/sinnyuusei/</guid>
       <description> サマリー  プログラミング初心者のための勉強会を開催しました  参加者のみなさんが、自分から能動的にプログラミングの勉強をしたくなるイベントを目指しました。   開催日  2019/4/16開催      
 開催した背景 吉田は九州情報工学部のALSAという団体でバイトをしています。学内に能動的に学ぶことのできる人間を増やすことをミッションに活動している団体です。 で、九州工業大学で「藍橋杯」という中国初のプログラミングコンテストを開催することになったのですが、たまたまALSAと縁があって、藍橋杯のスタッフをすることになりました。 (藍橋杯の公式日本語版サイト  )
 そこで、せっかくの機会なので、ただプログラミングコンテストを開催するのではなく、藍橋杯をALSAのミッションにつなげようということになり、プログラミングの勉強会を開催しました。
@@ -83,10 +83,10 @@
     
     <item>
       <title>春ゼミ2019 アイデアを思いつくには</title>
-      <link>https://104104104.github.io/event/haruzemi2019/</link>
+      <link>https://yoshidatoshinobu.work/event/haruzemi2019/</link>
       <pubDate>Mon, 15 Apr 2019 10:59:27 +0900</pubDate>
       
-      <guid>https://104104104.github.io/event/haruzemi2019/</guid>
+      <guid>https://yoshidatoshinobu.work/event/haruzemi2019/</guid>
       <description>このゼミのまとめスライド ゼミのPDF こちら 
 なぜこのスライドを作ったのか  バイト先「つなぐカフェ＠飯塚」で、学生同士の学び合いを促すゼミを行うことになった。  一般の方にも公開したゼミでした。その告知のフライヤーは こちら  です。  題材は「エンジニアの知的生産術」(西尾泰和, 株式会社技術評論社, 2018)  amazon 著者による公式サイト  吉田は、この本の中でも「アイデアを思いつくには」の章を担当しました。  準備や本番を通して得たもの U理論の知見  U理論の概要を以下に示す(ゼミスライド7枚目)  U理論は組織が新しいものを生み出すプロセスを、理論にしたもの。 意識状態として、閃きが起きやすい状況とはどういうものかの定義 どうすればそのような状態に至れるのかの道筋     著者の西尾さん曰く、U理論は三つの壁を言語化したことが重要(https://scrapbox.io/nishio/U%E7%90%86%E8%AB%96)  Voice of Judgement &amp;hellip; 一方的に相手の意見を決めつける「判断」の声 Voice of Cynicism &amp;hellip; 相手の言いたいことはわかったが、共感はしていない「皮肉」の声 Voice of Fear &amp;hellip; 相手と十分な相互の理解は得られ、その結果、新しいアイデアや新しい組み合わせを思いつきつつあるが、今までと全く違うことを実行することを「恐れている」声  そして、この三つの壁を超えた時に、閃きが起きやすい状況にいたることができる  
 吉田の体験談 U理論について知った後で、確かにU理論は正しそうだと感じたエピソードがあったので、紹介します。

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Website on 吉田のポートフォリオ</title>
-    <link>https://104104104.github.io/website/</link>
+    <link>https://yoshidatoshinobu.work/website/</link>
     <description>Recent content in Website on 吉田のポートフォリオ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Thu, 05 Sep 2019 15:40:06 +0900</lastBuildDate>
     
-	<atom:link href="https://104104104.github.io/website/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yoshidatoshinobu.work/website/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>吉田信将のポートフォリオの裏話</title>
-      <link>https://104104104.github.io/website/myportfolio/</link>
+      <link>https://yoshidatoshinobu.work/website/myportfolio/</link>
       <pubDate>Thu, 05 Sep 2019 15:40:06 +0900</pubDate>
       
-      <guid>https://104104104.github.io/website/myportfolio/</guid>
+      <guid>https://yoshidatoshinobu.work/website/myportfolio/</guid>
       <description> 概要 自分のこれまでの仕事を人に見せる機会が増えてきたので、まとめておく場所を作ることにした。
 自己紹介の際、これをパッと見せることで、「私はこんな人です」とわかるようにしたい。
 苦労した点  情報の整理に苦戦しました  最初は、ただ作品を並べたページを作った。情報の見せ方(受け取らせ方)が曖昧なので、見ても何が言いたいサイトなのかよくわからなかった 次に、吉田の興味関心を伝えられるように並べた。が、全体のまとめがないので、このサイトをパッと見たときにどこに注目すれば良いのかわからない。  なぜ興味関心を伝えようとしているのか、という議論も曖昧だったため、そこもよくなかった  その次は、吉田のこれまでとこれからが伝えられるようにサイトを作り直してみた。が、やはり全体のまとめがなく、サイトの見方がわからない。  作品一つ一つを紹介しなければいけない、という考えに捕らわれていたのもよくなかった。そのせいで、情報の整理がうまく進められなかったように思える。  現行版では、「吉田の考え方」「吉田の強み」を紹介するようにしている。  「自分は何を売りだと思っていて、相手にどういう風に受け取って欲しいのかまで、ガイドする必要がある」という助言をもらった。そこで、考え抜いて、自分の強みを「幅広い分野の知識があること」だと定義し、その定義に従って他の情報の見せ方も整理した。 知識が「ある」という表現だけだと、その知識を適切に「使える」かどうかは伝わらないかもしれない。そこで、吉田の考え方も紹介することで、その穴を埋めることにした。    このポートフォリオサイトのデザインの変遷 技術的なエピソード   「つなぐカフェ＠飯塚」のWebサイト  を制作した際に勉強した、静的サイトジェネレータHUGOを用いて、制作しました  なお、テンプレートから自作しています  GitHub Pagesというサービスを用いて公開しています。  ポートフォリオを作り始めた時点では、無料で使えるサービスはこれしか知らなかったので… Netlifyなどのサービスを知った今、HUGOとの連携が便利なNetlifyに引っ越そうかと思いつつ、アドレスを変えたくないのでまだ実行していません…   </description>
@@ -24,10 +24,10 @@
     
     <item>
       <title>つなぐカフェ＠飯塚webサイト(Hugoバージョン)</title>
-      <link>https://104104104.github.io/website/tsunaguhugo2/</link>
+      <link>https://yoshidatoshinobu.work/website/tsunaguhugo2/</link>
       <pubDate>Sun, 01 Sep 2019 23:10:04 +0900</pubDate>
       
-      <guid>https://104104104.github.io/website/tsunaguhugo2/</guid>
+      <guid>https://yoshidatoshinobu.work/website/tsunaguhugo2/</guid>
       <description> 概要 バイト先のコワーキングスペース「つなぐカフェ＠飯塚」の公式webサイトを製作しました。(http://www.tsunagucafe.com/)
 諸般の事情で、まれに見られない時があります。その際はすみませんがこちらを参照してください(https://tsunagusitetest.netlify.com/)
 なぜ作ったのか  飯塚の大学生に、もっとつなぐカフェ＠飯塚に来てもらうために制作しました。  つなぐカフェ＠飯塚は、飯塚の学生、企業、市民が顔を合わせる場所として作られました。イベントで一日顔を合わせて終わるのではなく、この場所で何度も顔を合わせる中で徐々に信頼関係を構築できる場所を目指しています。「学び」をコンセプトにして、学生、企業、市民が互いの知見を交換し、この場所で新たな学びを生むことでより交流できることを目指しています。 このwebページでは、飯塚の活動的な学生、特に3通りのユースケースを考え、掲載しました。サイトを見た人が「ここなら作業が捗りそう」「ここなら人と交流ができそう」と思い、来ることを目指しました。利用の様子を想像しやすいために、実際の利用の様子の写真をたくさん用いました。   制作の際、人の意見を取り入れ改善していった話 人の意見を取り入れつつ、自分でも勉強しつつ、つなぐカフェ＠飯塚のWebサイトのデザインを改善していった話をします。
@@ -55,10 +55,10 @@
     
     <item>
       <title>つなぐカフェ＠飯塚webサイト(旧バージョン)</title>
-      <link>https://104104104.github.io/website/tsunaguold/</link>
+      <link>https://yoshidatoshinobu.work/website/tsunaguold/</link>
       <pubDate>Mon, 24 Jun 2019 19:29:54 +0900</pubDate>
       
-      <guid>https://104104104.github.io/website/tsunaguold/</guid>
+      <guid>https://yoshidatoshinobu.work/website/tsunaguold/</guid>
       <description> トップページ(の画像) 
 いつ作ったものか 2018年の9月ごろに、このサイトを作っていました。
 完成品全体 古いバージョンのものですが、こちらのリンクに置いています 

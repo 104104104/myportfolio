@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 吉田のポートフォリオ</title>
-    <link>https://104104104.github.io/categories/</link>
+    <link>https://yoshidatoshinobu.work/categories/</link>
     <description>Recent content in Categories on 吉田のポートフォリオ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     
-	<atom:link href="https://104104104.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yoshidatoshinobu.work/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

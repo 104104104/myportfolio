@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>吉田のポートフォリオ</title>
-    <link>https://104104104.github.io/</link>
+    <link>https://yoshidatoshinobu.work/</link>
     <description>Recent content on 吉田のポートフォリオ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Thu, 05 Sep 2019 15:40:06 +0900</lastBuildDate>
     
-	<atom:link href="https://104104104.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yoshidatoshinobu.work/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>吉田信将のポートフォリオの裏話</title>
-      <link>https://104104104.github.io/website/myportfolio/</link>
+      <link>https://yoshidatoshinobu.work/website/myportfolio/</link>
       <pubDate>Thu, 05 Sep 2019 15:40:06 +0900</pubDate>
       
-      <guid>https://104104104.github.io/website/myportfolio/</guid>
+      <guid>https://yoshidatoshinobu.work/website/myportfolio/</guid>
       <description> 概要 自分のこれまでの仕事を人に見せる機会が増えてきたので、まとめておく場所を作ることにした。
 自己紹介の際、これをパッと見せることで、「私はこんな人です」とわかるようにしたい。
 苦労した点  情報の整理に苦戦しました  最初は、ただ作品を並べたページを作った。情報の見せ方(受け取らせ方)が曖昧なので、見ても何が言いたいサイトなのかよくわからなかった 次に、吉田の興味関心を伝えられるように並べた。が、全体のまとめがないので、このサイトをパッと見たときにどこに注目すれば良いのかわからない。  なぜ興味関心を伝えようとしているのか、という議論も曖昧だったため、そこもよくなかった  その次は、吉田のこれまでとこれからが伝えられるようにサイトを作り直してみた。が、やはり全体のまとめがなく、サイトの見方がわからない。  作品一つ一つを紹介しなければいけない、という考えに捕らわれていたのもよくなかった。そのせいで、情報の整理がうまく進められなかったように思える。  現行版では、「吉田の考え方」「吉田の強み」を紹介するようにしている。  「自分は何を売りだと思っていて、相手にどういう風に受け取って欲しいのかまで、ガイドする必要がある」という助言をもらった。そこで、考え抜いて、自分の強みを「幅広い分野の知識があること」だと定義し、その定義に従って他の情報の見せ方も整理した。 知識が「ある」という表現だけだと、その知識を適切に「使える」かどうかは伝わらないかもしれない。そこで、吉田の考え方も紹介することで、その穴を埋めることにした。    このポートフォリオサイトのデザインの変遷 技術的なエピソード   「つなぐカフェ＠飯塚」のWebサイト  を制作した際に勉強した、静的サイトジェネレータHUGOを用いて、制作しました  なお、テンプレートから自作しています  GitHub Pagesというサービスを用いて公開しています。  ポートフォリオを作り始めた時点では、無料で使えるサービスはこれしか知らなかったので… Netlifyなどのサービスを知った今、HUGOとの連携が便利なNetlifyに引っ越そうかと思いつつ、アドレスを変えたくないのでまだ実行していません…   </description>
@@ -24,10 +24,10 @@
     
     <item>
       <title>猫とタピオカ</title>
-      <link>https://104104104.github.io/program/nekotapi/</link>
+      <link>https://yoshidatoshinobu.work/program/nekotapi/</link>
       <pubDate>Thu, 05 Sep 2019 12:42:56 +0900</pubDate>
       
-      <guid>https://104104104.github.io/program/nekotapi/</guid>
+      <guid>https://yoshidatoshinobu.work/program/nekotapi/</guid>
       <description> 概要 個人で作ったゲームです。猫とタピオカを大量に集めることを目指します。最大1000個くらい集めることができるかと思います。
 こちらから遊べます。
 プレイ動画↓(ファイルサイズを小さくするため、画質が悪くなっています)
@@ -44,10 +44,10 @@
     
     <item>
       <title>つなぐカフェ＠飯塚webサイト(Hugoバージョン)</title>
-      <link>https://104104104.github.io/website/tsunaguhugo2/</link>
+      <link>https://yoshidatoshinobu.work/website/tsunaguhugo2/</link>
       <pubDate>Sun, 01 Sep 2019 23:10:04 +0900</pubDate>
       
-      <guid>https://104104104.github.io/website/tsunaguhugo2/</guid>
+      <guid>https://yoshidatoshinobu.work/website/tsunaguhugo2/</guid>
       <description> 概要 バイト先のコワーキングスペース「つなぐカフェ＠飯塚」の公式webサイトを製作しました。(http://www.tsunagucafe.com/)
 諸般の事情で、まれに見られない時があります。その際はすみませんがこちらを参照してください(https://tsunagusitetest.netlify.com/)
 なぜ作ったのか  飯塚の大学生に、もっとつなぐカフェ＠飯塚に来てもらうために制作しました。  つなぐカフェ＠飯塚は、飯塚の学生、企業、市民が顔を合わせる場所として作られました。イベントで一日顔を合わせて終わるのではなく、この場所で何度も顔を合わせる中で徐々に信頼関係を構築できる場所を目指しています。「学び」をコンセプトにして、学生、企業、市民が互いの知見を交換し、この場所で新たな学びを生むことでより交流できることを目指しています。 このwebページでは、飯塚の活動的な学生、特に3通りのユースケースを考え、掲載しました。サイトを見た人が「ここなら作業が捗りそう」「ここなら人と交流ができそう」と思い、来ることを目指しました。利用の様子を想像しやすいために、実際の利用の様子の写真をたくさん用いました。   制作の際、人の意見を取り入れ改善していった話 人の意見を取り入れつつ、自分でも勉強しつつ、つなぐカフェ＠飯塚のWebサイトのデザインを改善していった話をします。
@@ -75,10 +75,10 @@
     
     <item>
       <title>Information</title>
-      <link>https://104104104.github.io/introduce/</link>
+      <link>https://yoshidatoshinobu.work/introduce/</link>
       <pubDate>Sun, 01 Sep 2019 15:27:12 +0900</pubDate>
       
-      <guid>https://104104104.github.io/introduce/</guid>
+      <guid>https://yoshidatoshinobu.work/introduce/</guid>
       <description>吉田信将 九州工業大学 情報工学部 知能情報工学科
 2021年卒業予定
 Mail : yoshida.toshinobu388@mail.kyutech.jp
@@ -88,10 +88,10 @@ GitHub : https://github.com/104104104
     
     <item>
       <title>吉田の興味関心：学び</title>
-      <link>https://104104104.github.io/interesting/manabi/</link>
+      <link>https://yoshidatoshinobu.work/interesting/manabi/</link>
       <pubDate>Mon, 15 Jul 2019 19:51:21 +0900</pubDate>
       
-      <guid>https://104104104.github.io/interesting/manabi/</guid>
+      <guid>https://yoshidatoshinobu.work/interesting/manabi/</guid>
       <description> 人が新しいことを学び、変化することの支援 「自分が成長しているらしい」という感覚は楽しいので、積極的に新しいことに挑戦して、より良いと思われる方向へ変化して成長したいと考えています。また、できるならば周りの人も巻き込んで、巻き込んだ人からの良いフィードバックを得たいとも思っています。
 もし人間が何か新しいことを学んだなら、何か不可逆な形で「変化」が起こるはずです。何かを学んだ後で、学ぶ前の状態に戻ることはできないと、素朴には思われます。
 また、「学ぶ前の自分」から見ると、変化した後の「学んだ後の自分」がどうなっているのか想像することは難しいはずです。想像している自分そのものが大きく変化してしまうことを考えているので、自分がどう変化するのか、変化する前に見当をつけるのは、限りなく難しいはずです。
@@ -112,10 +112,10 @@ GitHub : https://github.com/104104104
     
     <item>
       <title>吉田の興味関心：デザイン</title>
-      <link>https://104104104.github.io/interesting/design/</link>
+      <link>https://yoshidatoshinobu.work/interesting/design/</link>
       <pubDate>Mon, 15 Jul 2019 19:50:55 +0900</pubDate>
       
-      <guid>https://104104104.github.io/interesting/design/</guid>
+      <guid>https://yoshidatoshinobu.work/interesting/design/</guid>
       <description>「誰に」対して「何を」「なぜ」伝えるのか バイト先でイベント告知のためのフライヤーやWebサイトを作っているうちに、人に何かを伝えるための情報の配置を考えるのが楽しくなってきました。
 ここでいうデザインとは、『「誰に」対して「何を」「なぜ」伝えるのかをよく整理して作られたモノ』程度の意味です。このようなことについて考えていると、本質的な問題に取り組んでいる気分になることができて、非常に楽しいです。
 また、伝えたい相手や目的がはっきりすればするほど、自ずからシンプルでかっこいいデザインのモノを作ることができると感じています。うまくいったときの感動はひとしおです。
@@ -136,10 +136,10 @@ GitHub : https://github.com/104104104
     
     <item>
       <title>計算機科学の技術にまつわる、今まで行ってきたこと</title>
-      <link>https://104104104.github.io/program/others/</link>
+      <link>https://yoshidatoshinobu.work/program/others/</link>
       <pubDate>Mon, 15 Jul 2019 19:04:56 +0900</pubDate>
       
-      <guid>https://104104104.github.io/program/others/</guid>
+      <guid>https://yoshidatoshinobu.work/program/others/</guid>
       <description>技術に関わる人として色々なことを行ってきました。
  小説を書くAI
  AIと人が一文づつ交互に文を書くことで、小説を書けるAI 用いたもの  Python Chainer  コードはこちら(https://github.com/104104104/RelayNovelAI)  レトロゲーム
@@ -153,19 +153,19 @@ GitHub : https://github.com/104104104
     
     <item>
       <title>競プロ勉強会の告知</title>
-      <link>https://104104104.github.io/flier/kyoupuroseptember/</link>
+      <link>https://yoshidatoshinobu.work/flier/kyoupuroseptember/</link>
       <pubDate>Thu, 11 Jul 2019 22:58:55 +0900</pubDate>
       
-      <guid>https://104104104.github.io/flier/kyoupuroseptember/</guid>
+      <guid>https://yoshidatoshinobu.work/flier/kyoupuroseptember/</guid>
       <description>制作した目的  大学のバイトで競プロの勉強会を行うことになり、その告知のフライヤーを作った。  ちなみに、主催は吉田ではないので、イベント本体の詳細については書かない。主催者と相談して、主催者の意図に沿った内容の、カッコいいフライヤーを作った。   伝えたい相手  「新しいことを学ぼう」という気がある人で、学ぶきっかけや学びやすい環境を探している人。以下に、今回想定した具体例を記す。  アルゴリズムに興味がある学生。すでに詳しい人にもきてほしいが、「まだ詳しくないけれど興味あるから勉強してみたい」ような人。 学びやすい空間を探している学生。学んでみたいが、一人でしても辛いので、一緒にできる仲間や、誰かと一緒に勉強できる空間を探している人。   こだわりポイント  「競技プログラミング勉強会」の文字の、適度にまじめで適度にかわいいフォント 「アルゴリズムに興味のある方」「一緒に勉強してみませんか？」という、この勉強会の大きな二つの意図が一目でわかるレイアウト 会の様子が想像しやすい写真付き  誰かが教えるようなイベントでなく、あくまでみんなで解いてみる会だという情報を示したかった   使ったツール  inDesign および PhotoShop  せっかくAdobeに入ったので、これらのツールを使ってみたく、使った。 inDesignで全体を作成　→　写真の加工はPhotoShop といった流れが非常にスムーズで便利とわかった。   PDF版 こちら</description>
     </item>
     
     <item>
       <title>作ったものたち</title>
-      <link>https://104104104.github.io/portfolio/</link>
+      <link>https://yoshidatoshinobu.work/portfolio/</link>
       <pubDate>Thu, 11 Jul 2019 22:42:59 +0900</pubDate>
       
-      <guid>https://104104104.github.io/portfolio/</guid>
+      <guid>https://yoshidatoshinobu.work/portfolio/</guid>
       <description>このページは吉田のこれまでに作ったもの置き場です。バイト先で作ったもの、趣味で作ったものなどが置いてあります。
 行ったイベント 一覧はこちら 
 バイト先でイベントを開催することが何度もありました。主に、新しいことを学ぶきっかけになるようなイベントを開催しました。その時の作ったスライドや、あれば開催の様子の写真を載せます。
@@ -186,19 +186,19 @@ GitHub : https://github.com/104104104
     
     <item>
       <title>Pyxelで作った避けゲー</title>
-      <link>https://104104104.github.io/program/pyxelgame/</link>
+      <link>https://yoshidatoshinobu.work/program/pyxelgame/</link>
       <pubDate>Sat, 29 Jun 2019 14:38:34 +0900</pubDate>
       
-      <guid>https://104104104.github.io/program/pyxelgame/</guid>
+      <guid>https://yoshidatoshinobu.work/program/pyxelgame/</guid>
       <description>  ピンクの四角がマウス。周りのオレンジが敵で、避けるゲーム。 敵同士は引き合い、合体し、大きくなる ソースコード  このゲームを発展させたゲーム「猫とタピオカ」を作成しました！　詳しくは こちら   概要   Pyxel勉強会  を行うに際し、サンプルとして作ったゲーム。結構楽しく作った。 勉強会中で示したスライドを以下に示す。 以下の図のような経緯があり、最初に想定していたものとは全然異なるプログラムが完成した。  が、ものを作る中で作りたいものが変化するのはむしろ自然で、それでより良いものが作れるならむしろ歓迎すべきことではないかと感じた。  Pyxel勉強会  でも、そのような内容の話をした。     </description>
     </item>
     
     <item>
       <title>荒ぶるタピオカ</title>
-      <link>https://104104104.github.io/program/tapioka/</link>
+      <link>https://yoshidatoshinobu.work/program/tapioka/</link>
       <pubDate>Fri, 28 Jun 2019 14:16:20 +0900</pubDate>
       
-      <guid>https://104104104.github.io/program/tapioka/</guid>
+      <guid>https://yoshidatoshinobu.work/program/tapioka/</guid>
       <description> これ 
 概要  友達とタピオカの話が盛り上がった夜、深夜テンションで作った。思ったよりキモくなった。せっかくなのでここに載せる
  Phina.js というゲーム用のJSフレームワークの実験
@@ -208,10 +208,10 @@ GitHub : https://github.com/104104104
     
     <item>
       <title>初心者のためのレトロゲームを作ってみようの会</title>
-      <link>https://104104104.github.io/event/pyxel/</link>
+      <link>https://yoshidatoshinobu.work/event/pyxel/</link>
       <pubDate>Wed, 26 Jun 2019 11:21:36 +0900</pubDate>
       
-      <guid>https://104104104.github.io/event/pyxel/</guid>
+      <guid>https://yoshidatoshinobu.work/event/pyxel/</guid>
       <description>サマリー  参加者が「新しいことを学んで変化する」ことを促すワークショップを目指しました。 そのために、ワークショップを「手を動かして作業する」→「人に進捗を見せる」→「フィードバックを受ける」といったサイクルを何度も回すように設計しました。
  このサイクルを回すことで、新しいことを学んだりアイデアを思いついたりしやすくなり、その結果、自分の考えや知識、物事に対する理解がいい方向に「変化」しやすくなるのではないか、という仮説に基づいています(吉田がいくつかの知見から推測した仮説です)。  具体的には、レトロ風のゲームが簡単に作れるPythonのモジュール”Pyxel”で、参加者にゲームを作ってもらいました。 ただ作るのではなく、「少し作業」→「人に見せる」といったサイクルをワークショップ内で３回ほど回すように設計しました。
   イベントのまとめスライド 作った資料  フライヤー 
@@ -230,10 +230,10 @@ GitHub : https://github.com/104104104
     
     <item>
       <title>つなぐカフェ＠飯塚webサイト(旧バージョン)</title>
-      <link>https://104104104.github.io/website/tsunaguold/</link>
+      <link>https://yoshidatoshinobu.work/website/tsunaguold/</link>
       <pubDate>Mon, 24 Jun 2019 19:29:54 +0900</pubDate>
       
-      <guid>https://104104104.github.io/website/tsunaguold/</guid>
+      <guid>https://yoshidatoshinobu.work/website/tsunaguold/</guid>
       <description> トップページ(の画像) 
 いつ作ったものか 2018年の9月ごろに、このサイトを作っていました。
 完成品全体 古いバージョンのものですが、こちらのリンクに置いています 
@@ -243,10 +243,10 @@ GitHub : https://github.com/104104104
     
     <item>
       <title>初心者のためのレトロゲームを作ってみようの会の告知</title>
-      <link>https://104104104.github.io/flier/retoro/</link>
+      <link>https://yoshidatoshinobu.work/flier/retoro/</link>
       <pubDate>Mon, 17 Jun 2019 15:56:46 +0900</pubDate>
       
-      <guid>https://104104104.github.io/flier/retoro/</guid>
+      <guid>https://yoshidatoshinobu.work/flier/retoro/</guid>
       <description>なぜ作ったか バイト先のALSAでPyxelが面白いといった話をしていると、それの勉強会を吉田が開催することになり、告知用に作った。
 想定している相手 「ゲームを作ってみたいが尻込みしている人」に伝わるよう作った。
 九工大情報工学部には、「ゲームを作ってみたい」という人はかなり多い。
@@ -260,10 +260,10 @@ PDF版 こちら</description>
     
     <item>
       <title>藍橋杯(国際プログラミングコンテスト)のスタッフ　および　藍橋杯に向けた勉強会主催</title>
-      <link>https://104104104.github.io/event/rantyao/</link>
+      <link>https://yoshidatoshinobu.work/event/rantyao/</link>
       <pubDate>Sat, 25 May 2019 15:51:17 +0900</pubDate>
       
-      <guid>https://104104104.github.io/event/rantyao/</guid>
+      <guid>https://yoshidatoshinobu.work/event/rantyao/</guid>
       <description>サマリー  競プロ大会のための勉強会を主催しました。  「藍橋杯」というプログラミングコンテストのための勉強会  伝えたこと  自分でプログラミングの勉強をしたいときに役立ちそうな知識や、もっと一般に何かを学ぶときに役立つ知識を伝えるようにしました。   開催日程  2019/4/17 藍橋過去問やってみようの会  吉田がスライドを作っていないので、詳細は書かない(書けない)  2019/4/24 競プロ勉強会　その１ 2019/5/8 競プロ勉強会　その２ 2019/5/15 競プロ勉強会　その３ 2019/5/22 競プロ勉強会　その４ 2019/5/15 藍橋杯本番 2019/6/12 藍橋反省会  吉田がスライドを作っていないので、詳細は書かない(書けない)   開催した背景 吉田は九州情報工学部のALSAという団体でバイトをしています。学内に能動的に学ぶことのできる人間を増やすことをミッションに活動している団体です。
 で、九州工業大学で「藍橋杯」という中国初のプログラミングコンテストを開催することになったのですが、たまたまALSAと縁があって、藍橋杯のスタッフをすることになりました。 (藍橋杯の公式日本語版サイト  )
 そこで、吉田は一時期AtCoderに参加していたこともあり、せっかくの機会なので、ただプログラミングコンテストを開催するのではなく、藍橋杯をALSAのミッションにつなげようということになり、プログラミングの勉強会を開催する仕事をすることになりました。
@@ -275,10 +275,10 @@ PDF版 こちら</description>
     
     <item>
       <title>つなぐカフェ＠飯塚のスタッフ募集</title>
-      <link>https://104104104.github.io/flier/tsunagustaff/</link>
+      <link>https://yoshidatoshinobu.work/flier/tsunagustaff/</link>
       <pubDate>Mon, 13 May 2019 15:55:49 +0900</pubDate>
       
-      <guid>https://104104104.github.io/flier/tsunagustaff/</guid>
+      <guid>https://yoshidatoshinobu.work/flier/tsunagustaff/</guid>
       <description>なぜ作ったか バイト先のつなぐカフェ＠飯塚で、新しい学生スタッフを募集するために作った。
 伝えたい相手 「学びながら働く」ことの興味がある人に届くよう心がけました。
 アルバイトを「時間を売ってお金をもらう場」ではなく、「働きながら新しいことを学んで変化する場所」と考えられる人でなければ、ここでのバイトは続かないと考えたからです。
@@ -291,20 +291,20 @@ PDF版 こちら</description>
     
     <item>
       <title>春ゼミ2019 アイデアを思いつくには リフレクション</title>
-      <link>https://104104104.github.io/event/haruzemi2019reflection/</link>
+      <link>https://yoshidatoshinobu.work/event/haruzemi2019reflection/</link>
       <pubDate>Mon, 29 Apr 2019 11:51:41 +0900</pubDate>
       
-      <guid>https://104104104.github.io/event/haruzemi2019reflection/</guid>
+      <guid>https://yoshidatoshinobu.work/event/haruzemi2019reflection/</guid>
       <description>このゼミのまとめスライド ゼミのPDF こちら 
 なぜこのスライドを作ったのか   このゼミ  のリフレクションとして作成した。  「プレセンシングがよくわからない」という質問に答えた 暗黙知について再整理した   暗黙知について  このゼミでは「ポランニーさんの主張する暗黙知」を扱った  「正しい進化の方向だ」感 元々の題材の本の著者である西野さん曰く、「違和感」の対義語 人間にもともと備わっている感覚 このような感覚があるよ、ということを知っているのが大切(?) 実は吉田もこの辺についてはうまく言語化できていない…   暗黙知の具体例  絵の練習をしていて、練習の仕方はどんどん変わるが、絵はうまくなっている気がする。暗黙知に従って練習したから？ ゲームを作っていて、当初の予定と大きく違うものになったが、これはこれで面白いゲームができた。暗黙知に従って行動したから？  作ったゲームについての図 作ったゲームは これ</description>
     </item>
     
     <item>
       <title>新入生のためのプログラミング入門イベントの主催</title>
-      <link>https://104104104.github.io/event/sinnyuusei/</link>
+      <link>https://yoshidatoshinobu.work/event/sinnyuusei/</link>
       <pubDate>Tue, 16 Apr 2019 14:53:51 +0900</pubDate>
       
-      <guid>https://104104104.github.io/event/sinnyuusei/</guid>
+      <guid>https://yoshidatoshinobu.work/event/sinnyuusei/</guid>
       <description> サマリー  プログラミング初心者のための勉強会を開催しました  参加者のみなさんが、自分から能動的にプログラミングの勉強をしたくなるイベントを目指しました。   開催日  2019/4/16開催      
 開催した背景 吉田は九州情報工学部のALSAという団体でバイトをしています。学内に能動的に学ぶことのできる人間を増やすことをミッションに活動している団体です。 で、九州工業大学で「藍橋杯」という中国初のプログラミングコンテストを開催することになったのですが、たまたまALSAと縁があって、藍橋杯のスタッフをすることになりました。 (藍橋杯の公式日本語版サイト  )
 そこで、せっかくの機会なので、ただプログラミングコンテストを開催するのではなく、藍橋杯をALSAのミッションにつなげようということになり、プログラミングの勉強会を開催しました。
@@ -324,10 +324,10 @@ PDF版 こちら</description>
     
     <item>
       <title>春ゼミ2019 アイデアを思いつくには</title>
-      <link>https://104104104.github.io/event/haruzemi2019/</link>
+      <link>https://yoshidatoshinobu.work/event/haruzemi2019/</link>
       <pubDate>Mon, 15 Apr 2019 10:59:27 +0900</pubDate>
       
-      <guid>https://104104104.github.io/event/haruzemi2019/</guid>
+      <guid>https://yoshidatoshinobu.work/event/haruzemi2019/</guid>
       <description>このゼミのまとめスライド ゼミのPDF こちら 
 なぜこのスライドを作ったのか  バイト先「つなぐカフェ＠飯塚」で、学生同士の学び合いを促すゼミを行うことになった。  一般の方にも公開したゼミでした。その告知のフライヤーは こちら  です。  題材は「エンジニアの知的生産術」(西尾泰和, 株式会社技術評論社, 2018)  amazon 著者による公式サイト  吉田は、この本の中でも「アイデアを思いつくには」の章を担当しました。  準備や本番を通して得たもの U理論の知見  U理論の概要を以下に示す(ゼミスライド7枚目)  U理論は組織が新しいものを生み出すプロセスを、理論にしたもの。 意識状態として、閃きが起きやすい状況とはどういうものかの定義 どうすればそのような状態に至れるのかの道筋     著者の西尾さん曰く、U理論は三つの壁を言語化したことが重要(https://scrapbox.io/nishio/U%E7%90%86%E8%AB%96)  Voice of Judgement &amp;hellip; 一方的に相手の意見を決めつける「判断」の声 Voice of Cynicism &amp;hellip; 相手の言いたいことはわかったが、共感はしていない「皮肉」の声 Voice of Fear &amp;hellip; 相手と十分な相互の理解は得られ、その結果、新しいアイデアや新しい組み合わせを思いつきつつあるが、今までと全く違うことを実行することを「恐れている」声  そして、この三つの壁を超えた時に、閃きが起きやすい状況にいたることができる  
 吉田の体験談 U理論について知った後で、確かにU理論は正しそうだと感じたエピソードがあったので、紹介します。
@@ -339,10 +339,10 @@ PDF版 こちら</description>
     
     <item>
       <title>藍橋杯および競プロ勉強会の告知</title>
-      <link>https://104104104.github.io/flier/rantyao/</link>
+      <link>https://yoshidatoshinobu.work/flier/rantyao/</link>
       <pubDate>Wed, 27 Mar 2019 15:56:33 +0900</pubDate>
       
-      <guid>https://104104104.github.io/flier/rantyao/</guid>
+      <guid>https://yoshidatoshinobu.work/flier/rantyao/</guid>
       <description>なぜ作ったか 九工大で、日本初上陸のプログラミングコンテスト「藍橋杯」を開催することになり、吉田のバイト先のALSAがそのスタッフをすることになり、たまたまAtCoderをやったことのあった吉田が、勉強会を主催することになり、その告知のため作った。
 想定している相手 様々な事情があり、このイベントには人数がこないとまずかった。
 なので、それなりに数がいると思われる「就活などで焦っている３年生」を狙って作成した。
@@ -355,10 +355,10 @@ PDF版 こちら</description>
     
     <item>
       <title>新入生のためのプログラミング入門イベント告知</title>
-      <link>https://104104104.github.io/flier/nyuumon/</link>
+      <link>https://yoshidatoshinobu.work/flier/nyuumon/</link>
       <pubDate>Sat, 23 Mar 2019 15:56:56 +0900</pubDate>
       
-      <guid>https://104104104.github.io/flier/nyuumon/</guid>
+      <guid>https://yoshidatoshinobu.work/flier/nyuumon/</guid>
       <description>なぜ作ったか バイト先のALSAで「新入生のためのプログラミング入門イベント」を吉田が主催することになり、その告知のために作成した。
 想定している相手 新入生の中でも、プログラミングが初めての人。ゼロからプログラミングを始める人。
 なので、はっきり「ゼロからプログラミングを始める人に」と書いた。
@@ -370,10 +370,10 @@ PDF版 こちら</description>
     
     <item>
       <title>春の輪読会の告知</title>
-      <link>https://104104104.github.io/flier/haruzemi/</link>
+      <link>https://yoshidatoshinobu.work/flier/haruzemi/</link>
       <pubDate>Thu, 21 Mar 2019 15:56:40 +0900</pubDate>
       
-      <guid>https://104104104.github.io/flier/haruzemi/</guid>
+      <guid>https://yoshidatoshinobu.work/flier/haruzemi/</guid>
       <description>なぜ作ったか バイト先のつなぐカフェ@飯塚で「春の輪読会」を行うことになった。
 飯塚の企業で働いている方などの一般の方にも来て欲しいので、つなぐのfacebookで流したり、印刷してつなぐ内に貼るために作った。
 伝えたい相手 飯塚の企業で働いている方などの一般の方。特に、学生を利用したい人ではなく、学生と何度も会い、信頼関係を積む中で、一緒に何かをしたいと考えている人。
@@ -385,10 +385,10 @@ PDF版 こちら</description>
     
     <item>
       <title>「つなぐカフェ＠飯塚」とはどういう場所か知らせる</title>
-      <link>https://104104104.github.io/flier/tsunaguabout/</link>
+      <link>https://yoshidatoshinobu.work/flier/tsunaguabout/</link>
       <pubDate>Sun, 10 Feb 2019 15:56:23 +0900</pubDate>
       
-      <guid>https://104104104.github.io/flier/tsunaguabout/</guid>
+      <guid>https://yoshidatoshinobu.work/flier/tsunaguabout/</guid>
       <description>なぜ作ったか バイト先の「つなぐカフェ＠飯塚」で、利用者にこの施設がどういう場所かを毎回説明するのは難しいと感じた。
 そこで、「とりあえずこの紙を渡せば最低限は伝わる」紙を目指して作った。
 想定している相手 (この紙を作っていた頃は、相手を想定して作る、みたいなことはあまり意識していなかった気もするが、)渡す相手はすでにつなぐカフェ＠飯塚内にいる前提なので、スタッフがこの紙を利用者に見せながら、実際の施設を指差して説明をするつもりで作った。
