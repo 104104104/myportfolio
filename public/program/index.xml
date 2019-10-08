@@ -6,10 +6,25 @@
     <description>Recent content in Program on 吉田のポートフォリオ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 05 Sep 2019 12:42:56 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2019 13:05:07 +0900</lastBuildDate>
     
 	<atom:link href="https://yoshidatoshinobu.work/program/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MyPicAR(プロトタイプ)</title>
+      <link>https://yoshidatoshinobu.work/program/mypicar/</link>
+      <pubDate>Tue, 08 Oct 2019 13:05:07 +0900</pubDate>
+      
+      <guid>https://yoshidatoshinobu.work/program/mypicar/</guid>
+      <description>概要 自分のイラストを風景の中に召喚できる、ブラウザ上で動くWebアプリケーションです。
+このリンクから使えます。 (まだ変なバグが多数残っており、動作が安定していないです。また、無料版のHerokuを使っているので、動作が遅いです。2019/10は忙しくて暇がないのですが、近いうちにバグ取りをして、公開したいと考えています。)
+以下のような画像を生成することができます。
+タブレット、スマホ、PCに対応していますが、特に、iPadのような、大きなタッチディスプレイを持つ端末で使われることを想定しています。
+なぜ作ったか 知り合いの絵師が、イラストと実際の写真を重ねた作品を作りながら「リアルタイムで重ねられたらいいのに」と言っているのを聞き、制作しました。
+その人が作品を作るときは、まず絵を描き、次に写真を用意し、あとから画像編集ツールで絵と写真をを重ねていました。が、後から重ねるのでは写真と絵が上手く噛み合わない、という問題がおこることがあります。そこで、絵を重ねながら写真を撮ることが可能なツールを開発することにしました。
+もちろん、自分で作って画像を作って遊んでみたかったからというのもあります。 こういうツールがあって、初めて思いつくような作品もあるんじゃないかなぁと思ったので作りました。</description>
+    </item>
     
     <item>
       <title>猫とタピオカ</title>
