@@ -7,7 +7,7 @@ draft: false
 
 ### 概要
 個人で作ったゲームです。猫とタピオカを大量に集めることを目指します。最大1000個くらい集めることができるかと思います。<br>
-<a href="https://game.tanikawaichi.work/nekotapi/title">こちら</a>から遊べます。
+<a href="https://nekotapi.tanikawa1.site/nekotapi/title">こちら</a>から遊べます。
 
 プレイ動画↓(ファイルサイズを小さくするため、画質が悪くなっています)
 
