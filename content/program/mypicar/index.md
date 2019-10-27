@@ -12,6 +12,8 @@ draft: false
 <a href="https://mypicar.herokuapp.com">このリンク</a>から使えます。
 (まだ変なバグが多数残っており、動作が安定していないです。また、無料版のHerokuを使っているので、動作が遅いです。2019/10は忙しくて暇がないのですが、近いうちにバグ取りをして、公開したいと考えています。)
 
+ソースコードは<a href="https://github.com/104104104/mypicar">こちら</a>で公開しています。
+
 以下のような画像を生成することができます。
 
 {{% static_img src="sample3.png" %}}
