@@ -1,21 +1,24 @@
 <br>
 <h1 style="text-align: center">新着記事</h1>
-<img src="/img/underbar.png" class="underbar"> {{ range first 5 .Site.RegularPages.ByDate.Reverse }}
-<p style="text-align: center"><time>{{.Date.Format "2006/01/02"}}</time></p>
-<h4 style="text-align: center"><a href="{{.RelPermalink}}">{{.Title}}</a></h4>
+<img src="/img/underbar.png" class="underbar">
 
-{{ $eyecatch_image := findRE "<img.*?src=([^>]*)?>" .Content 1 }}
-{{ if ge (len $eyecatch_image ) 1 }}
-{{ range $eyecatch_image }}
-<div class="img-fluid" style="width: 30%; margin-left:35%;">
-    {{ . | safeHTML }}
-</div>
-{{ end }}
-{{ else }}
-<div></div>
-{{ end}}
+{{ range first 5 .Site.RegularPages.ByDate.Reverse }}
+    <p style="text-align: center"><time>{{.Date.Format "2006/01/02"}}</time></p>
+    <h4 style="text-align: center"><a href="{{.RelPermalink}}">{{.Title}}</a></h4>
 
-<p style="text-align:center; padding-left:25%; padding-right:25%;">{{ substr .Summary 0 80 }}…</p>
+    {{ $eyecatch_image := findRE "<img.*?src=([^>]*)?>" .Content 1 }}
+    
+    {{ if ge (len $eyecatch_image ) 1 }}
+        {{ range $eyecatch_image }}
+            <div class="img-fluid" style="width: 30%; margin-left:35%;">
+                {{ . | safeHTML }}
+            </div>
+        {{ end }}
+    {{ else }}
+        <div></div>
+    {{ end}}
 
-<br>
+    <p style="text-align:center; padding-left:25%; padding-right:25%;">{{ substr .Summary 0 80 }}…</p>
+
+    <br>
  {{ end }}
